@@ -1,0 +1,706 @@
+{
+ "photos": {
+  "dani-plumas": {
+   "src": [
+    802,
+    1057
+   ],
+   "files": [
+    [
+     "dani-plumas-480.webp",
+     480,
+     633,
+     12566
+    ],
+    [
+     "dani-plumas-800.webp",
+     800,
+     1054,
+     22750
+    ],
+    [
+     "dani-plumas-802.webp",
+     802,
+     1057,
+     23130
+    ]
+   ]
+  },
+  "dani-plumas-cerca": {
+   "src": [
+    780,
+    1118
+   ],
+   "files": [
+    [
+     "dani-plumas-cerca-480.webp",
+     480,
+     688,
+     17684
+    ],
+    [
+     "dani-plumas-cerca-780.webp",
+     780,
+     1118,
+     31810
+    ]
+   ]
+  },
+  "dani-estudio": {
+   "src": [
+    938,
+    1173
+   ],
+   "files": [
+    [
+     "dani-estudio-480.webp",
+     480,
+     600,
+     11874
+    ],
+    [
+     "dani-estudio-800.webp",
+     800,
+     1000,
+     24382
+    ],
+    [
+     "dani-estudio-938.webp",
+     938,
+     1173,
+     30626
+    ]
+   ]
+  },
+  "dani-bambuco-risa": {
+   "src": [
+    862,
+    1116
+   ],
+   "files": [
+    [
+     "dani-bambuco-risa-480.webp",
+     480,
+     621,
+     52346
+    ],
+    [
+     "dani-bambuco-risa-800.webp",
+     800,
+     1036,
+     107386
+    ],
+    [
+     "dani-bambuco-risa-862.webp",
+     862,
+     1116,
+     118376
+    ]
+   ]
+  },
+  "dani-bambuco-saludo": {
+   "src": [
+    810,
+    1147
+   ],
+   "files": [
+    [
+     "dani-bambuco-saludo-480.webp",
+     480,
+     680,
+     51688
+    ],
+    [
+     "dani-bambuco-saludo-800.webp",
+     800,
+     1133,
+     107516
+    ],
+    [
+     "dani-bambuco-saludo-810.webp",
+     810,
+     1147,
+     109006
+    ]
+   ]
+  },
+  "dani-bambuco": {
+   "src": [
+    785,
+    1136
+   ],
+   "files": [
+    [
+     "dani-bambuco-480.webp",
+     480,
+     695,
+     54390
+    ],
+    [
+     "dani-bambuco-785.webp",
+     785,
+     1136,
+     109692
+    ]
+   ]
+  },
+  "dani-luz-azul": {
+   "src": [
+    792,
+    1087
+   ],
+   "files": [
+    [
+     "dani-luz-azul-480.webp",
+     480,
+     659,
+     12090
+    ],
+    [
+     "dani-luz-azul-792.webp",
+     792,
+     1087,
+     21702
+    ]
+   ]
+  },
+  "dani-neon": {
+   "src": [
+    773,
+    1081
+   ],
+   "files": [
+    [
+     "dani-neon-480.webp",
+     480,
+     671,
+     22200
+    ],
+    [
+     "dani-neon-773.webp",
+     773,
+     1081,
+     38834
+    ]
+   ]
+  },
+  "dani-vestido-blanco": {
+   "src": [
+    1591,
+    1988
+   ],
+   "files": [
+    [
+     "dani-vestido-blanco-480.webp",
+     480,
+     600,
+     12396
+    ],
+    [
+     "dani-vestido-blanco-800.webp",
+     800,
+     1000,
+     30466
+    ],
+    [
+     "dani-vestido-blanco-1200.webp",
+     1200,
+     1499,
+     58674
+    ],
+    [
+     "dani-vestido-blanco-1591.webp",
+     1591,
+     1988,
+     91264
+    ]
+   ]
+  },
+  "dani-mano": {
+   "src": [
+    1280,
+    1600
+   ],
+   "files": [
+    [
+     "dani-mano-480.webp",
+     480,
+     600,
+     13542
+    ],
+    [
+     "dani-mano-800.webp",
+     800,
+     1000,
+     32666
+    ],
+    [
+     "dani-mano-1200.webp",
+     1200,
+     1500,
+     66386
+    ],
+    [
+     "dani-mano-1280.webp",
+     1280,
+     1600,
+     77324
+    ]
+   ]
+  },
+  "dani-perfil": {
+   "src": [
+    640,
+    800
+   ],
+   "files": [
+    [
+     "dani-perfil-480.webp",
+     480,
+     600,
+     15604
+    ],
+    [
+     "dani-perfil-640.webp",
+     640,
+     800,
+     25532
+    ]
+   ]
+  },
+  "bts-bee": {
+   "src": [
+    451,
+    798
+   ],
+   "files": [
+    [
+     "bts-bee-451.webp",
+     451,
+     798,
+     22326
+    ]
+   ]
+  },
+  "bts-parrilla": {
+   "src": [
+    600,
+    800
+   ],
+   "files": [
+    [
+     "bts-parrilla-480.webp",
+     480,
+     640,
+     23594
+    ],
+    [
+     "bts-parrilla-600.webp",
+     600,
+     800,
+     31250
+    ]
+   ]
+  },
+  "bts-escritorio": {
+   "src": [
+    600,
+    800
+   ],
+   "files": [
+    [
+     "bts-escritorio-480.webp",
+     480,
+     640,
+     23610
+    ],
+    [
+     "bts-escritorio-600.webp",
+     600,
+     800,
+     31490
+    ]
+   ]
+  },
+  "bts-gimbal": {
+   "src": [
+    599,
+    799
+   ],
+   "files": [
+    [
+     "bts-gimbal-480.webp",
+     480,
+     640,
+     31540
+    ],
+    [
+     "bts-gimbal-599.webp",
+     599,
+     799,
+     41374
+    ]
+   ]
+  },
+  "bts-produccion": {
+   "src": [
+    600,
+    800
+   ],
+   "files": [
+    [
+     "bts-produccion-480.webp",
+     480,
+     640,
+     17090
+    ],
+    [
+     "bts-produccion-600.webp",
+     600,
+     800,
+     22920
+    ]
+   ]
+  },
+  "bts-artis": {
+   "src": [
+    600,
+    800
+   ],
+   "files": [
+    [
+     "bts-artis-480.webp",
+     480,
+     640,
+     18652
+    ],
+    [
+     "bts-artis-600.webp",
+     600,
+     800,
+     24398
+    ]
+   ]
+  },
+  "cliente-retrato": {
+   "src": [
+    800,
+    533
+   ],
+   "files": [
+    [
+     "cliente-retrato-480.webp",
+     480,
+     320,
+     19448
+    ],
+    [
+     "cliente-retrato-800.webp",
+     800,
+     533,
+     40976
+    ]
+   ]
+  },
+  "carnaval-retrato": {
+   "src": [
+    815,
+    1117
+   ],
+   "files": [
+    [
+     "carnaval-retrato-480.webp",
+     480,
+     658,
+     52650
+    ],
+    [
+     "carnaval-retrato-800.webp",
+     800,
+     1096,
+     101718
+    ],
+    [
+     "carnaval-retrato-815.webp",
+     815,
+     1117,
+     104566
+    ]
+   ]
+  },
+  "carnaval-perfil": {
+   "src": [
+    787,
+    1092
+   ],
+   "files": [
+    [
+     "carnaval-perfil-480.webp",
+     480,
+     666,
+     47338
+    ],
+    [
+     "carnaval-perfil-787.webp",
+     787,
+     1092,
+     100584
+    ]
+   ]
+  },
+  "carnaval-comparsa": {
+   "src": [
+    980,
+    1103
+   ],
+   "files": [
+    [
+     "carnaval-comparsa-480.webp",
+     480,
+     540,
+     49910
+    ],
+    [
+     "carnaval-comparsa-800.webp",
+     800,
+     900,
+     101946
+    ],
+    [
+     "carnaval-comparsa-980.webp",
+     980,
+     1103,
+     132468
+    ]
+   ]
+  },
+  "carnaval-pompones": {
+   "src": [
+    748,
+    1112
+   ],
+   "files": [
+    [
+     "carnaval-pompones-480.webp",
+     480,
+     714,
+     35456
+    ],
+    [
+     "carnaval-pompones-748.webp",
+     748,
+     1112,
+     72430
+    ]
+   ]
+  },
+  "carnaval-blancanieves": {
+   "src": [
+    997,
+    600
+   ],
+   "files": [
+    [
+     "carnaval-blancanieves-480.webp",
+     480,
+     289,
+     28944
+    ],
+    [
+     "carnaval-blancanieves-800.webp",
+     800,
+     481,
+     51872
+    ],
+    [
+     "carnaval-blancanieves-997.webp",
+     997,
+     600,
+     66754
+    ]
+   ]
+  },
+  "carnaval-blancanieves-brazos": {
+   "src": [
+    997,
+    488
+   ],
+   "files": [
+    [
+     "carnaval-blancanieves-brazos-480.webp",
+     480,
+     235,
+     23632
+    ],
+    [
+     "carnaval-blancanieves-brazos-800.webp",
+     800,
+     392,
+     42116
+    ],
+    [
+     "carnaval-blancanieves-brazos-997.webp",
+     997,
+     488,
+     54384
+    ]
+   ]
+  },
+  "bambuco-banda": {
+   "src": [
+    857,
+    893
+   ],
+   "files": [
+    [
+     "bambuco-banda-480.webp",
+     480,
+     500,
+     50518
+    ],
+    [
+     "bambuco-banda-800.webp",
+     800,
+     834,
+     101668
+    ],
+    [
+     "bambuco-banda-857.webp",
+     857,
+     893,
+     113586
+    ]
+   ]
+  },
+  "bambuco-coronacion": {
+   "src": [
+    900,
+    1065
+   ],
+   "files": [
+    [
+     "bambuco-coronacion-480.webp",
+     480,
+     568,
+     59704
+    ],
+    [
+     "bambuco-coronacion-800.webp",
+     800,
+     947,
+     117214
+    ],
+    [
+     "bambuco-coronacion-900.webp",
+     900,
+     1065,
+     133712
+    ]
+   ]
+  }
+ },
+ "logos": {
+  "gat-fashion-lab": [
+   "gat-fashion-lab.webp",
+   200,
+   200,
+   1586
+  ],
+  "kioskito-de-vale": [
+   "kioskito-de-vale.webp",
+   189,
+   267,
+   8174
+  ],
+  "agoz-agency": [
+   "agoz-agency.webp",
+   320,
+   320,
+   15028
+  ],
+  "depilaser": [
+   "depilaser.webp",
+   320,
+   320,
+   3918
+  ],
+  "bee-languages": [
+   "bee-languages.webp",
+   225,
+   225,
+   3348
+  ],
+  "carnavalera": [
+   "carnavalera.webp",
+   320,
+   320,
+   17800
+  ],
+  "marca-danza": [
+   "marca-danza.webp",
+   320,
+   320,
+   8936
+  ],
+  "nc": [
+   "nc.webp",
+   320,
+   317,
+   9660
+  ],
+  "makeup-artist": [
+   "makeup-artist.webp",
+   320,
+   320,
+   19904
+  ],
+  "que-milagro": [
+   "que-milagro.webp",
+   320,
+   320,
+   9390
+  ],
+  "marca-estrella": [
+   "marca-estrella.webp",
+   200,
+   200,
+   1878
+  ],
+  "sbelta": [
+   "sbelta.webp",
+   150,
+   150,
+   3292
+  ],
+  "15-37": [
+   "15-37.webp",
+   320,
+   320,
+   11004
+  ],
+  "dejaste-huella": [
+   "dejaste-huella.webp",
+   320,
+   320,
+   14500
+  ],
+  "vivalto-media": [
+   "vivalto-media.webp",
+   320,
+   320,
+   9420
+  ],
+  "artis": [
+   "artis.webp",
+   320,
+   320,
+   8634
+  ],
+  "david-lopez": [
+   "david-lopez.webp",
+   263,
+   320,
+   25410
+  ]
+ }
+}

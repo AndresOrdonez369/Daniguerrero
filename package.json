@@ -1,0 +1,12 @@
+{
+  "name": "dani-guerrero-web",
+  "private": true,
+  "description": "Sitio estático de María Daniela Guerrero. Solo assets/js/hero-fx.js se genera, desde src/ (hero.js, colcha.js, talco.js).",
+  "scripts": {
+    "build": "esbuild src/hero.js --bundle --format=esm --minify --target=es2020 --legal-comments=eof --outfile=assets/js/hero-fx.js"
+  },
+  "devDependencies": {
+    "esbuild": "0.24.0",
+    "three": "0.169.0"
+  }
+}

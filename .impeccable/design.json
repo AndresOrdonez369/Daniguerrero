@@ -1,0 +1,768 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-08T18:42:32.542Z",
+  "title": "Design System: Dani Guerrero",
+  "extensions": {
+    "colorMeta": {
+      "negro": {
+        "role": "neutral",
+        "displayName": "Negro de Día de Negros",
+        "canonical": "#0D0C0E",
+        "oklch": "oklch(15.6% 0.004 308.1)",
+        "tonalRamp": [
+          "#0C0B0D",
+          "#252326",
+          "#403F42",
+          "#5E5D60",
+          "#817F82",
+          "#A5A4A7",
+          "#CBCACD",
+          "#EFEEF1"
+        ]
+      },
+      "talco": {
+        "role": "neutral",
+        "displayName": "Talco",
+        "canonical": "#F3F4F6",
+        "oklch": "oklch(96.7% 0.003 264.5)",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#232425",
+          "#3F4041",
+          "#5D5E5F",
+          "#7F8082",
+          "#A4A4A6",
+          "#C9CACC",
+          "#EDEEF0"
+        ]
+      },
+      "crema": {
+        "role": "neutral",
+        "displayName": "Crema de Collage",
+        "canonical": "#E9E4D1",
+        "oklch": "oklch(91.8% 0.026 94.8)",
+        "tonalRamp": [
+          "#0F0B01",
+          "#282415",
+          "#444030",
+          "#625E4D",
+          "#85806F",
+          "#A9A593",
+          "#D0CBB8",
+          "#F4EFDC"
+        ]
+      },
+      "papel": {
+        "role": "neutral",
+        "displayName": "Papel de Sticker",
+        "canonical": "#EDE7D3",
+        "oklch": "oklch(92.7% 0.027 93.1)",
+        "tonalRamp": [
+          "#0F0B01",
+          "#282414",
+          "#45402F",
+          "#635E4C",
+          "#86806E",
+          "#AAA592",
+          "#D0CBB7",
+          "#F5EFDA"
+        ]
+      },
+      "frame-ground": {
+        "role": "neutral",
+        "displayName": "Fondo de Marco",
+        "canonical": "#1A181C",
+        "oklch": "oklch(21.3% 0.008 308.0)",
+        "tonalRamp": [
+          "#0C0A0E",
+          "#252327",
+          "#413F43",
+          "#5F5C61",
+          "#817F84",
+          "#A6A3A9",
+          "#CCC9CF",
+          "#F0EDF3"
+        ]
+      },
+      "lila": {
+        "role": "tertiary",
+        "displayName": "Lila Papa en Flor",
+        "canonical": "#BBA7E6",
+        "oklch": "oklch(76.8% 0.091 298.8)",
+        "tonalRamp": [
+          "#110027",
+          "#2B1649",
+          "#473369",
+          "#65518A",
+          "#8774AF",
+          "#AC98D6",
+          "#D2BEFE",
+          "#F1EBFF"
+        ]
+      },
+      "cebada": {
+        "role": "tertiary",
+        "displayName": "Cebada",
+        "canonical": "#CFDD4C",
+        "oklch": "oklch(86.1% 0.165 114.6)",
+        "tonalRamp": [
+          "#0B0D00",
+          "#242701",
+          "#3F4400",
+          "#5D6403",
+          "#7F8901",
+          "#A3AF07",
+          "#C8D644",
+          "#ECFB6D"
+        ]
+      },
+      "verde": {
+        "role": "tertiary",
+        "displayName": "Verde Papa",
+        "canonical": "#1F4A30",
+        "oklch": "oklch(37.0% 0.066 154.8)",
+        "tonalRamp": [
+          "#001005",
+          "#002D15",
+          "#1F4A30",
+          "#3E694D",
+          "#608C6F",
+          "#84B193",
+          "#A9D8B8",
+          "#CCFCDB"
+        ]
+      },
+      "tierra": {
+        "role": "tertiary",
+        "displayName": "Tierra Arada",
+        "canonical": "#6B321E",
+        "oklch": "oklch(38.9% 0.087 39.6)",
+        "tonalRamp": [
+          "#1B0300",
+          "#431100",
+          "#652D19",
+          "#874B37",
+          "#AD6E58",
+          "#D4927B",
+          "#FDB8A0",
+          "#FFE9E2"
+        ]
+      },
+      "trigo": {
+        "role": "tertiary",
+        "displayName": "Trigo",
+        "canonical": "#E3A93A",
+        "oklch": "oklch(77.1% 0.140 79.7)",
+        "tonalRamp": [
+          "#120900",
+          "#322000",
+          "#553A02",
+          "#7B5600",
+          "#A77603",
+          "#D29924",
+          "#FABF54",
+          "#FEECCE"
+        ]
+      },
+      "cobalto": {
+        "role": "tertiary",
+        "displayName": "Cobalto (patch only)",
+        "canonical": "#2D4BD8",
+        "oklch": "oklch(48.8% 0.217 267.6)",
+        "tonalRamp": [
+          "#020035",
+          "#0A0175",
+          "#171EAF",
+          "#2B48D5",
+          "#4971FE",
+          "#7DA0FE",
+          "#B5CAFE",
+          "#E8EEFF"
+        ]
+      },
+      "naranja": {
+        "role": "tertiary",
+        "displayName": "Naranja (patch only)",
+        "canonical": "#F36B21",
+        "oklch": "oklch(68.5% 0.185 44.2)",
+        "tonalRamp": [
+          "#1A0400",
+          "#401400",
+          "#6B2700",
+          "#9A3C00",
+          "#D05402",
+          "#FF7733",
+          "#FFB799",
+          "#FEEAE1"
+        ]
+      },
+      "cta": {
+        "role": "primary",
+        "displayName": "Pompón Carmín",
+        "canonical": "#B3121F",
+        "oklch": "oklch(48.9% 0.190 25.4)",
+        "tonalRamp": [
+          "#1F0001",
+          "#4B0005",
+          "#7C010E",
+          "#B00B1C",
+          "#DA4241",
+          "#FF726A",
+          "#FFB5AD",
+          "#FEE9E6"
+        ]
+      },
+      "cta-hondo": {
+        "role": "primary",
+        "displayName": "Carmín Hondo",
+        "canonical": "#8F0E19",
+        "oklch": "oklch(41.6% 0.160 24.9)",
+        "tonalRamp": [
+          "#1F0001",
+          "#4B0006",
+          "#7C0010",
+          "#A52A2B",
+          "#CE514D",
+          "#F97771",
+          "#FFB5AE",
+          "#FEE9E7"
+        ]
+      },
+      "carmin": {
+        "role": "secondary",
+        "displayName": "Tinta Carmín",
+        "canonical": "#C8102E",
+        "oklch": "oklch(53.0% 0.207 22.3)",
+        "tonalRamp": [
+          "#1F0002",
+          "#4A010A",
+          "#7B0217",
+          "#B10025",
+          "#E13542",
+          "#FF7171",
+          "#FFB4B1",
+          "#FEE9E7"
+        ]
+      },
+      "carmin-luz": {
+        "role": "secondary",
+        "displayName": "Carmín Luz",
+        "canonical": "#F23A44",
+        "oklch": "oklch(63.3% 0.219 23.6)",
+        "tonalRamp": [
+          "#1F0001",
+          "#4B0008",
+          "#7C0114",
+          "#B10321",
+          "#E62B3A",
+          "#FE726F",
+          "#FEB5B0",
+          "#FFE8E7"
+        ]
+      },
+      "halftone": {
+        "role": "secondary",
+        "displayName": "Halftone Print",
+        "canonical": "#E5242F",
+        "oklch": "oklch(59.3% 0.223 25.4)",
+        "tonalRamp": [
+          "#1F0001",
+          "#4B0005",
+          "#7C010F",
+          "#B1031A",
+          "#E82831",
+          "#FF726B",
+          "#FFB5AE",
+          "#FEE9E7"
+        ]
+      },
+      "ink-2-negro": {
+        "role": "neutral",
+        "displayName": "Secondary ink on negro",
+        "canonical": "#CFC8D6",
+        "oklch": "oklch(84.3% 0.021 308.2)",
+        "tonalRamp": [
+          "#0E0912",
+          "#27212C",
+          "#433D48",
+          "#615B67",
+          "#847D8A",
+          "#A8A1AF",
+          "#CEC7D5",
+          "#F2EBF9"
+        ]
+      },
+      "ink-2-crema": {
+        "role": "neutral",
+        "displayName": "Secondary ink on crema",
+        "canonical": "#4A4033",
+        "oklch": "oklch(37.8% 0.025 74.2)",
+        "tonalRamp": [
+          "#110902",
+          "#2B2216",
+          "#483E31",
+          "#665C4E",
+          "#8A7E70",
+          "#AEA394",
+          "#D5C8B9",
+          "#F9ECDC"
+        ]
+      },
+      "ink-2-talco": {
+        "role": "neutral",
+        "displayName": "Secondary ink on talco",
+        "canonical": "#463B52",
+        "oklch": "oklch(37.3% 0.041 306.3)",
+        "tonalRamp": [
+          "#100619",
+          "#291F34",
+          "#453A51",
+          "#635870",
+          "#867A94",
+          "#AB9EB9",
+          "#D1C4E0",
+          "#F3EAFE"
+        ]
+      },
+      "ink-2-verde": {
+        "role": "neutral",
+        "displayName": "Secondary ink on verde",
+        "canonical": "#CFE3C9",
+        "oklch": "oklch(89.4% 0.041 138.5)",
+        "tonalRamp": [
+          "#030F01",
+          "#1A2915",
+          "#354530",
+          "#52634D",
+          "#74866F",
+          "#98AB92",
+          "#BED1B8",
+          "#E1F6DB"
+        ]
+      },
+      "ink-2-cebada": {
+        "role": "neutral",
+        "displayName": "Secondary ink on cebada",
+        "canonical": "#3D4410",
+        "oklch": "oklch(36.9% 0.073 116.7)",
+        "tonalRamp": [
+          "#0A0D00",
+          "#222700",
+          "#3D4410",
+          "#5B6331",
+          "#7D8653",
+          "#A1AB76",
+          "#C7D19B",
+          "#EBF6BE"
+        ]
+      },
+      "ink-2-tierra": {
+        "role": "neutral",
+        "displayName": "Secondary ink on tierra",
+        "canonical": "#F0D2C2",
+        "oklch": "oklch(88.5% 0.040 49.9)",
+        "tonalRamp": [
+          "#180600",
+          "#341E12",
+          "#513A2D",
+          "#715749",
+          "#957A6B",
+          "#BA9E8F",
+          "#E1C4B4",
+          "#FEEADF"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display (name)",
+        "purpose": "The name only; letters rise in on load, second word indented 0.5em."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section titles, max 20ch, balanced. The Contacto close scales to clamp(2.5rem, 1.45rem + 3.8vw, 5rem) at 16ch."
+      },
+      "hook": {
+        "displayName": "Hook",
+        "purpose": "The hero question, max 21ch."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Service names (weight 560), spread titles, credentials, process heading; opsz 24 to 32."
+      },
+      "script": {
+        "displayName": "Script (Dani's voice)",
+        "purpose": "Only Dani's own phrases; 1.12 to 1.28em of the host, rotated -3 to -4deg, written in with a clip reveal. Carmín on light grounds, carmín luz on dark."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Running copy, 46 to 58ch."
+      },
+      "intro": {
+        "displayName": "Intro",
+        "purpose": "One-sentence deck under a headline, max 46ch, secondary ink."
+      },
+      "ui": {
+        "displayName": "UI",
+        "purpose": "Proof line, look captions, header links (0.9375rem), tooltips."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Uppercase, only inside woven labels."
+      },
+      "sticker-caps": {
+        "displayName": "Sticker caps",
+        "purpose": "Uppercase, only inside sticker bubbles (0.6875 to 0.75rem) and the cinta (0.8125rem)."
+      }
+    },
+    "stitch": [
+      {
+        "name": "stitch-width",
+        "value": "1.5px",
+        "purpose": "Universal line weight for seams, dividers and stitched outlines."
+      },
+      {
+        "name": "seam",
+        "value": "repeating-linear-gradient(90deg, var(--thread) 0 12px, transparent 12px 20px)",
+        "purpose": "Top seam between sections, 14px below the top edge, inset to the gutter."
+      },
+      {
+        "name": "link-stitch",
+        "value": "repeating-linear-gradient(90deg, currentColor 0 6px, transparent 6px 10px)",
+        "purpose": "Stitch-link underline, sewn in from the left on hover."
+      },
+      {
+        "name": "inset-stitch",
+        "value": "outline: 1.5px dashed rgba(243,244,246,.6 to .72); outline-offset: -5px to -7px",
+        "purpose": "Top-stitch inside patches, tiles, the pompón, the cinta and labels."
+      },
+      {
+        "name": "thread",
+        "value": "section ink at alpha 0.42 to 0.55",
+        "purpose": "Seam and divider colour, set per fabric."
+      }
+    ],
+    "fabrics": [
+      {
+        "section": "hero",
+        "fabric": "negro",
+        "ink": "talco",
+        "ink2": "ink-2-negro",
+        "thread": "rgba(243,244,246,.45)",
+        "scriptInk": "carmin-luz"
+      },
+      {
+        "section": "sobre",
+        "fabric": "crema",
+        "ink": "negro",
+        "ink2": "ink-2-crema",
+        "thread": "rgba(179,18,31,.55)",
+        "scriptInk": "carmin"
+      },
+      {
+        "section": "escena",
+        "fabric": "negro",
+        "ink": "talco",
+        "ink2": "ink-2-negro",
+        "thread": "rgba(243,244,246,.45)",
+        "scriptInk": "carmin-luz"
+      },
+      {
+        "section": "servicios",
+        "fabric": "talco",
+        "ink": "negro",
+        "ink2": "ink-2-talco",
+        "thread": "rgba(13,12,14,.42)",
+        "scriptInk": "carmin"
+      },
+      {
+        "section": "marcas",
+        "fabric": "verde",
+        "ink": "talco",
+        "ink2": "ink-2-verde",
+        "thread": "rgba(243,244,246,.55)"
+      },
+      {
+        "section": "ugc",
+        "fabric": "cebada",
+        "ink": "negro",
+        "ink2": "ink-2-cebada",
+        "thread": "rgba(13,12,14,.5)"
+      },
+      {
+        "section": "formacion",
+        "fabric": "tierra",
+        "ink": "talco",
+        "ink2": "ink-2-tierra",
+        "thread": "rgba(243,244,246,.5)"
+      },
+      {
+        "section": "contacto",
+        "fabric": "talco",
+        "ink": "negro",
+        "ink2": "ink-2-talco",
+        "thread": "rgba(13,12,14,.42)",
+        "scriptInk": "carmin"
+      }
+    ],
+    "shadows": [
+      {
+        "name": "pompon-lift",
+        "value": "0 12px 24px -14px rgba(13,12,14,.6)",
+        "purpose": "Carmín pompón at rest."
+      },
+      {
+        "name": "pompon-lift-hover",
+        "value": "0 18px 28px -14px rgba(13,12,14,.7)",
+        "purpose": "Pompón hover, with translateY(-2px)."
+      },
+      {
+        "name": "label-drop",
+        "value": "0 8px 18px -12px rgba(13,12,14,.55)",
+        "purpose": "Woven labels."
+      },
+      {
+        "name": "ribbon-drop",
+        "value": "0 14px 24px -16px rgba(0,0,0,.8)",
+        "purpose": "The cinta."
+      },
+      {
+        "name": "sticker-drop",
+        "value": "drop-shadow(0 10px 12px rgba(0,0,0,.45))",
+        "purpose": "Die-cut stickers and bubbles (a filter that follows the silhouette)."
+      },
+      {
+        "name": "sticker-drop-dragging",
+        "value": "drop-shadow(0 20px 22px rgba(0,0,0,.5))",
+        "purpose": "A sticker while it is dragged."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(.16, 1, .3, 1)",
+        "purpose": "Default easing for every state transition and reveal."
+      },
+      {
+        "name": "look-period",
+        "value": "5200ms",
+        "purpose": "Autoplay interval between portrait looks."
+      },
+      {
+        "name": "colcha-transition",
+        "value": "1900ms, exponential ease-out, diagonal sweep",
+        "purpose": "The three.js retazos transition between looks."
+      },
+      {
+        "name": "script-write",
+        "value": "clip-path reveal 1.3s ease-out, .1s delay (.75s in the hero hook)",
+        "purpose": "Dani's phrases write in as they enter view."
+      },
+      {
+        "name": "name-rise",
+        "value": "1s ease-out, 38ms stagger per letter, from translateY(.38em) rotate(5deg)",
+        "purpose": "Name letters rise on load."
+      },
+      {
+        "name": "sticker-bob",
+        "value": "4.5s to 6.5s ease-in-out alternate",
+        "purpose": "Stickers bob gently."
+      },
+      {
+        "name": "portrait-drift",
+        "value": "11s ease-in-out alternate, scale 1 to 1.04",
+        "purpose": "Slow breathing of the portrait."
+      },
+      {
+        "name": "cinta-scroll",
+        "value": "46s linear infinite",
+        "purpose": "The ribbon marquee; pauses on hover."
+      },
+      {
+        "name": "like-pop",
+        "value": ".95s ease-out",
+        "purpose": "Carmín heart pop on a like."
+      },
+      {
+        "name": "stitch-sew",
+        "value": ".55s ease-out",
+        "purpose": "Stitch-link underline sewing in."
+      },
+      {
+        "name": "sticky-bar",
+        "value": ".4s ease-out",
+        "purpose": "Sticky WhatsApp bar slide."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "all animation and transition none; no particles, autoplay, bob or marquee; script always visible",
+        "purpose": "prefers-reduced-motion. Save-Data also skips the three.js bundle."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "md",
+        "value": "700px",
+        "purpose": "Gutter 32px, two-column facetas, six-column quilt."
+      },
+      {
+        "name": "lg",
+        "value": "1024px",
+        "purpose": "Gutter 64px, two-column hero and splits, desktop nav, mini-colcha, no sticky bar."
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Pompón Button",
+      "kind": "button",
+      "refersTo": "button-pompon",
+      "description": "The one conversion action: write to Dani on WhatsApp.",
+      "html": "<a class=\"ds-pompon\" href=\"#\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm4.9 13.9c-.2.6-1.2 1.2-1.7 1.2-.5.1-1 .1-3.2-.8-2.6-1.1-4.3-3.8-4.4-4-.1-.2-1.1-1.4-1.1-2.7s.7-1.9.9-2.2c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 1.9c.1.1.1.3 0 .4l-.4.6-.4.4c-.1.1-.3.3-.1.6.2.3.7 1.2 1.5 1.9 1 .9 1.9 1.2 2.1 1.3.3.1.4.1.6-.1l.8-1c.2-.3.4-.2.6-.1l1.8.9c.3.1.4.2.5.3.1.2.1.7-.1 1.3z\"/></svg>Escríbeme y lo charlamos</a>",
+      "css": ".ds-pompon { display: inline-flex; align-items: center; gap: 10px; min-height: 52px; padding: 0 26px 0 22px; border-radius: 999px; background: #B3121F; color: #F3F4F6; font: 600 1rem/1.1 \"Figtree\", \"Segoe UI\", system-ui, sans-serif; text-decoration: none; outline: 1.5px dashed rgba(243,244,246,.6); outline-offset: -6px; box-shadow: 0 12px 24px -14px rgba(13,12,14,.6); transition: background-color .25s, transform .3s cubic-bezier(.16,1,.3,1), box-shadow .3s cubic-bezier(.16,1,.3,1); } .ds-pompon:hover { background: #8F0E19; transform: translateY(-2px); box-shadow: 0 18px 28px -14px rgba(13,12,14,.7); } .ds-pompon:active { transform: translateY(0); } .ds-pompon:focus-visible { outline: 2px dashed #0D0C0E; outline-offset: 4px; }"
+    },
+    {
+      "name": "Header WhatsApp Pill",
+      "kind": "button",
+      "refersTo": "header-whatsapp",
+      "description": "Ghost pill on negro in the header.",
+      "html": "<div class=\"ds-top\"><a class=\"ds-top-wa\" href=\"#\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm4.9 13.9c-.2.6-1.2 1.2-1.7 1.2-.5.1-1 .1-3.2-.8-2.6-1.1-4.3-3.8-4.4-4-.1-.2-1.1-1.4-1.1-2.7s.7-1.9.9-2.2c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 1.9c.1.1.1.3 0 .4l-.4.6-.4.4c-.1.1-.3.3-.1.6.2.3.7 1.2 1.5 1.9 1 .9 1.9 1.2 2.1 1.3.3.1.4.1.6-.1l.8-1c.2-.3.4-.2.6-.1l1.8.9c.3.1.4.2.5.3.1.2.1.7-.1 1.3z\"/></svg><span>WhatsApp</span></a></div>",
+      "css": ".ds-top { background: #0D0C0E; padding: 16px; } .ds-top-wa { display: inline-flex; align-items: center; gap: 8px; min-height: 42px; padding: 0 16px 0 13px; border-radius: 999px; border: 1px solid rgba(243,244,246,.38); color: #F3F4F6; font: 600 .875rem/1 \"Figtree\", \"Segoe UI\", system-ui, sans-serif; text-decoration: none; transition: border-color .2s, background-color .2s; } .ds-top-wa:hover { border-color: #F3F4F6; background: rgba(243,244,246,.08); } .ds-top-wa:focus-visible { outline: 2px dashed currentColor; outline-offset: 4px; }"
+    },
+    {
+      "name": "Stitch Link",
+      "kind": "custom",
+      "refersTo": "stitch-link",
+      "description": "A dashed underline that sews in from the left; the quiet variant keeps it visible.",
+      "html": "<p class=\"ds-stitch-wrap\"><a class=\"ds-stitch\" href=\"#\">Sobre mí</a> &nbsp; <a class=\"ds-stitch ds-quiet\" href=\"#\">Ver lo que hago</a></p>",
+      "css": ".ds-stitch-wrap { font: 500 1rem/1.4 \"Figtree\", \"Segoe UI\", system-ui, sans-serif; color: #0D0C0E; } .ds-stitch { color: inherit; text-decoration: none; padding-bottom: 3px; background: repeating-linear-gradient(90deg, currentColor 0 6px, transparent 6px 10px) left bottom / 0% 1.5px no-repeat; transition: background-size .55s cubic-bezier(.16,1,.3,1); } .ds-stitch:hover, .ds-stitch:focus-visible { background-size: 100% 1.5px; } .ds-stitch:focus-visible { outline: 2px dashed currentColor; outline-offset: 4px; } .ds-quiet { background-size: 100% 1.5px; font-weight: 600; } .ds-quiet:hover { background-size: 100% 2.5px; }"
+    },
+    {
+      "name": "Woven Label (etiqueta)",
+      "kind": "card",
+      "refersTo": "etiqueta",
+      "description": "A garment label sewn onto a service row, with a retazo tab.",
+      "html": "<div class=\"ds-etq-wrap\"><p class=\"ds-etiqueta\"><span>Ideal para</span>marcas que publican sin rumbo o se van a relanzar.</p></div>",
+      "css": ".ds-etq-wrap { background: #F3F4F6; padding: 24px; } .ds-etiqueta { position: relative; margin: 0; max-width: 36ch; padding: 12px 16px 13px; background: #0D0C0E; color: #F3F4F6; font: 500 .9375rem/1.45 \"Figtree\", \"Segoe UI\", system-ui, sans-serif; outline: 1px dashed rgba(243,244,246,.45); outline-offset: -5px; box-shadow: 0 8px 18px -12px rgba(13,12,14,.55); } .ds-etiqueta::before { content: \"\"; position: absolute; top: -7px; left: 16px; width: 16px; height: 14px; background: #BBA7E6; } .ds-etiqueta span { display: block; margin-bottom: 2px; font-size: .75rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: #BBA7E6; }"
+    },
+    {
+      "name": "Retazo Squares and Look Swatches",
+      "kind": "chip",
+      "refersTo": "look-swatch",
+      "description": "Stitched square bullets in four weaves, and the look swatch with its current state.",
+      "html": "<div class=\"ds-sqs\"><span class=\"ds-sq\" style=\"--c:#BBA7E6\"></span><span class=\"ds-sq ds-stripes\" style=\"--c:#E3A93A\"></span><span class=\"ds-sq ds-dots\" style=\"--c:#CFDD4C\"></span><span class=\"ds-sq ds-check\" style=\"--c:#6B321E\"></span><button class=\"ds-swatch\" aria-current=\"true\" style=\"--c:#BBA7E6\" aria-label=\"Look 1\"></button><button class=\"ds-swatch\" style=\"--c:#E3A93A\" aria-label=\"Look 2\"></button></div>",
+      "css": ".ds-sqs { display: flex; align-items: center; gap: 14px; background: #0D0C0E; padding: 16px; } .ds-sq { width: 18px; height: 18px; background: var(--c); box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--c) 70%, #fff); } .ds-stripes { background: repeating-linear-gradient(45deg, var(--c) 0 3px, color-mix(in srgb, var(--c) 72%, #000) 3px 6px); } .ds-dots { background: radial-gradient(circle, color-mix(in srgb, var(--c) 45%, #fff) 1.3px, transparent 1.8px) 0 0 / 5px 5px, var(--c); } .ds-check { background: linear-gradient(90deg, rgba(255,255,255,.24) 50%, transparent 0) 0 0 / 6px 6px, linear-gradient(rgba(255,255,255,.24) 50%, transparent 0) 0 0 / 6px 6px, var(--c); } .ds-swatch { width: 24px; height: 24px; padding: 0; border: 0; background: var(--c); cursor: pointer; transition: transform .3s cubic-bezier(.16,1,.3,1); } .ds-swatch:hover { transform: translateY(-2px); } .ds-swatch[aria-current=\"true\"] { outline: 1.5px dashed #F3F4F6; outline-offset: 3px; } .ds-swatch:focus-visible { outline: 2px dashed #F3F4F6; outline-offset: 4px; }"
+    },
+    {
+      "name": "Sticker Bubble",
+      "kind": "custom",
+      "refersTo": "sticker-bubble",
+      "description": "An oval papel bubble with a dotted carmín stitch, pairing sticker caps with script.",
+      "html": "<div class=\"ds-bub-wrap\"><p class=\"ds-burbuja\"><span class=\"ds-caps\">Profesional en</span><span class=\"ds-script\">Diseño de modas</span></p></div>",
+      "css": ".ds-bub-wrap { background: #0D0C0E; padding: 24px; } .ds-burbuja { display: grid; place-content: center; width: 232px; height: 128px; margin: 0; border-radius: 50%; background: #EDE7D3; outline: 1.5px dotted #B3121F; outline-offset: -7px; text-align: center; transform: rotate(-6deg); filter: drop-shadow(0 10px 12px rgba(0,0,0,.45)); cursor: grab; transition: filter .25s; } .ds-burbuja:hover { filter: drop-shadow(0 20px 22px rgba(0,0,0,.5)); } .ds-caps { display: block; font: 600 .75rem/1.25 \"Figtree\", \"Segoe UI\", system-ui, sans-serif; letter-spacing: .16em; text-transform: uppercase; color: #B3121F; } .ds-script { display: block; font: 400 2.125rem/.95 \"Yellowtail\", \"Brush Script MT\", cursive; color: #C8102E; margin-block: 2px; }"
+    },
+    {
+      "name": "Cinta",
+      "kind": "custom",
+      "refersTo": "cinta",
+      "description": "A tilted carmín ribbon of services that scrolls slowly and pauses on hover.",
+      "html": "<div class=\"ds-cinta\"><div class=\"ds-cinta-track\"><span>Estrategia de marca</span><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path fill=\"#E3A93A\" d=\"M12 1.8l2.9 6.6 7.2.7-5.4 4.8 1.6 7.1L12 17.3 5.7 21l1.6-7.1L1.9 9.1l7.2-.7z\"/></svg><span>Creación de contenido</span><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path fill=\"#E3A93A\" d=\"M12 1.8l2.9 6.6 7.2.7-5.4 4.8 1.6 7.1L12 17.3 5.7 21l1.6-7.1L1.9 9.1l7.2-.7z\"/></svg><span>Redes sociales</span><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path fill=\"#E3A93A\" d=\"M12 1.8l2.9 6.6 7.2.7-5.4 4.8 1.6 7.1L12 17.3 5.7 21l1.6-7.1L1.9 9.1l7.2-.7z\"/></svg><em>con alma</em><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path fill=\"#E3A93A\" d=\"M12 1.8l2.9 6.6 7.2.7-5.4 4.8 1.6 7.1L12 17.3 5.7 21l1.6-7.1L1.9 9.1l7.2-.7z\"/></svg></div></div>",
+      "css": ".ds-cinta { margin: 24px -12px; padding: 13px 0; overflow: hidden; background: #B3121F; color: #F3F4F6; outline: 1px dashed rgba(243,244,246,.5); outline-offset: -6px; transform: rotate(-1.6deg); box-shadow: 0 14px 24px -16px rgba(0,0,0,.8); } .ds-cinta-track { display: flex; align-items: center; gap: 20px; width: max-content; padding-left: 20px; animation: ds-cinta 46s linear infinite; } .ds-cinta:hover .ds-cinta-track { animation-play-state: paused; } .ds-cinta span { font: 600 .8125rem/1 \"Figtree\", \"Segoe UI\", system-ui, sans-serif; letter-spacing: .16em; text-transform: uppercase; white-space: nowrap; } .ds-cinta em { font: 400 1.625rem/1 \"Yellowtail\", \"Brush Script MT\", cursive; font-style: normal; } @keyframes ds-cinta { to { transform: translateX(-30%); } } @media (prefers-reduced-motion: reduce) { .ds-cinta-track { animation: none; } }"
+    },
+    {
+      "name": "Quilt Tile and Next Patch",
+      "kind": "card",
+      "refersTo": "quilt-next",
+      "description": "A square stitched logo tile on verde, and the carmín patch inviting the next brand.",
+      "html": "<ul class=\"ds-quilt\"><li class=\"ds-tile\"></li><li class=\"ds-tile ds-next\"><a href=\"#\"><span>¿Tu marca es el próximo retazo?</span><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></li></ul>",
+      "css": ".ds-quilt { list-style: none; margin: 0; padding: 16px; display: grid; grid-template-columns: repeat(2, 140px); gap: 14px; background: #1F4A30; } .ds-tile { position: relative; aspect-ratio: 1; background: #F3F4F6; outline: 1.5px dashed rgba(243,244,246,.72); outline-offset: -5px; overflow: hidden; } .ds-next { background: #B3121F; } .ds-next a { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: space-between; padding: 16px; color: #F3F4F6; text-decoration: none; font: 400 1.375rem/1.18 \"Yellowtail\", \"Brush Script MT\", cursive; transition: background-color .25s; } .ds-next a:hover { background: #8F0E19; } .ds-next svg { align-self: flex-end; transition: transform .35s cubic-bezier(.16,1,.3,1); } .ds-next a:hover svg { transform: translateX(4px); } .ds-next a:focus-visible { outline: 2px dashed #F3F4F6; outline-offset: -8px; }"
+    },
+    {
+      "name": "Mini-colcha Nav",
+      "kind": "nav",
+      "refersTo": "mini-colcha",
+      "description": "The page as its patchwork: one fabric square per section, the current one scaled and stitched.",
+      "html": "<nav class=\"ds-mini\" aria-label=\"Secciones\"><a href=\"#\" style=\"--c:#0D0C0E\" aria-current=\"true\"><span>Inicio</span></a><a href=\"#\" style=\"--c:#E9E4D1\"><span>Sobre mí</span></a><a href=\"#\" style=\"--c:#0D0C0E\"><span>En escena</span></a><a href=\"#\" style=\"--c:#F3F4F6\"><span>Servicios</span></a><a href=\"#\" style=\"--c:#1F4A30\"><span>Marcas</span></a><a href=\"#\" style=\"--c:#CFDD4C\"><span>UGC</span></a><a href=\"#\" style=\"--c:#6B321E\"><span>Formación</span></a><a href=\"#\" style=\"--c:#F3F4F6\"><span>Contacto</span></a></nav>",
+      "css": ".ds-mini { display: inline-grid; gap: 3px; padding: 5px; margin-left: 120px; background: #0D0C0E; outline: 1px dashed rgba(243,244,246,.35); outline-offset: -2px; } .ds-mini a { position: relative; display: block; width: 12px; height: 12px; background: var(--c); box-shadow: inset 0 0 0 1px rgba(243,244,246,.28); transition: transform .3s cubic-bezier(.16,1,.3,1); } .ds-mini a[aria-current=\"true\"] { transform: scale(1.35); outline: 1px dashed #F3F4F6; outline-offset: 2px; z-index: 1; } .ds-mini a:focus-visible { outline: 2px dashed #F3F4F6; outline-offset: 3px; } .ds-mini span { position: absolute; right: calc(100% + 12px); top: 50%; transform: translateY(-50%); padding: 4px 9px; background: #0D0C0E; color: #F3F4F6; font: 600 .75rem/1.2 \"Figtree\", \"Segoe UI\", system-ui, sans-serif; white-space: nowrap; opacity: 0; pointer-events: none; transition: opacity .2s; } .ds-mini a:hover span, .ds-mini a:focus-visible span { opacity: 1; }"
+    },
+    {
+      "name": "Process Step",
+      "kind": "custom",
+      "refersTo": "paso-number",
+      "description": "A stitched retazo square holding a Bodoni numeral, with the step title and one line.",
+      "html": "<div class=\"ds-paso\"><span class=\"ds-paso-n\" style=\"--c:#BBA7E6\">1</span><strong>Me escribes</strong><p>Por WhatsApp me cuentas de tu marca y qué quieres lograr.</p></div>",
+      "css": ".ds-paso { display: grid; grid-template-columns: 46px 1fr; column-gap: 16px; row-gap: 4px; max-width: 360px; color: #0D0C0E; background: #F3F4F6; padding: 16px; } .ds-paso-n { grid-row: span 2; display: grid; place-items: center; width: 46px; height: 46px; background: var(--c); color: #0D0C0E; font: 600 1.375rem/1 \"Bodoni Moda\", \"Bodoni 72\", Didot, serif; font-variation-settings: \"opsz\" 24; outline: 1px dashed rgba(13,12,14,.45); outline-offset: -5px; } .ds-paso strong { font: 600 1.0625rem/1.3 \"Figtree\", \"Segoe UI\", system-ui, sans-serif; padding-top: 2px; } .ds-paso p { margin: 0; color: #463B52; font: 400 1rem/1.5 \"Figtree\", \"Segoe UI\", system-ui, sans-serif; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "La Colcha de Negros a Blancos",
+    "overview": "The whole page is one quilt. Each section is a whole piece of fabric with its own ground: Carnaval black, collage cream, talco white, potato-field green, barley yellow-green, ploughed-earth brown. A dashed top-stitch joins each piece to the one above. Three voices sit on that cloth. Bodoni Moda sets the fashion-editorial finish. Figtree carries the working text. Dani's own carmín script and halftone stickers, taken from her collage, put her hand on top. The textile ties the Andean colcha, the comparsa patchwork and a fashion designer's fabric together, so every recurring device is something sewn: stitches, patches, woven labels, ribbons, die-cut stickers.\n\nDensity is editorial and generous. Sections breathe on large vertical padding, portraits are large and carry the page, and colour arrives as whole fabrics or small stitched squares, never as gradients or tints. Motion is Carnaval air: talco and confeti drift in the hero, the portrait unstitches into patches between looks, stickers bob and can be dragged, and Dani's phrases write themselves in. One control pauses all of it, and reduced motion removes it entirely.",
+    "keyCharacteristics": [
+      "Every section is one solid fabric ground, with its own ink, secondary ink, thread and script ink.",
+      "A dashed stitch (1.5px) is the universal line: seams, dividers, focus, inner outlines.",
+      "Square-cut cloth everywhere. Rounding is reserved for the pompón pill, the round icon buttons and the collage ovals.",
+      "Carmín script is Dani's voice and only hers.",
+      "Photography is the content; the colcha frames it and never covers it."
+    ],
+    "rules": [
+      {
+        "name": "The One Fabric Rule",
+        "body": "A section is one solid fabric from the retazo palette and sets four values: ink, secondary ink, thread (a translucent ink at 0.42 to 0.55 alpha) and, on dark fabrics, carmin-luz as script ink. Nothing inside it changes the ground except patches, labels and photographs.",
+        "section": "colors"
+      },
+      {
+        "name": "The Carmín Is Hers Rule",
+        "body": "The carmín family means Dani: her script, her stickers, and the one action of writing to her. Never use it for decoration, section grounds or generic emphasis.",
+        "section": "colors"
+      },
+      {
+        "name": "The Patch, Not Ground Rule",
+        "body": "Cobalto and naranja are too loud to be ground. They appear only as squares, patches and confeti.",
+        "section": "colors"
+      },
+      {
+        "name": "The Her Own Words Rule",
+        "body": "Yellowtail sets only Dani's own phrases (\"pero dime Dani\", \"Yo te ayudo\", \"cositas chéveres\", \"¿Indecis@?\"). Inside a heading it runs at 1.12 to 1.28em, rotated -3 to -4deg, and writes itself in with a clip reveal as it enters view. It is never used for navigation, labels or a whole paragraph.",
+        "section": "typography"
+      },
+      {
+        "name": "The Tracked Caps Stay Sewn Rule",
+        "body": "Uppercase tracked text lives only inside a physical object: a woven label, a sticker bubble or the cinta. Never above a heading.",
+        "section": "typography"
+      },
+      {
+        "name": "The Optical Size Rule",
+        "body": "Set Bodoni's opsz by hand to match the role (80, 40, 32, 24). Never leave a mid-size Bodoni at auto, where the hairlines break.",
+        "section": "typography"
+      },
+      {
+        "name": "The Seam Rule",
+        "body": "Sections never meet edge to edge without a stitch. Inside a section, lists divide with the same dashed thread, never with solid rules or boxes.",
+        "section": "layout"
+      },
+      {
+        "name": "The Only Objects Cast Rule",
+        "body": "Shadows belong to things laid on the quilt: buttons, labels, ribbon and stickers. Fabrics, photographs, cards and lists stay flat. Shadows are always soft, blurred and offset downward, never hard-edged.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** give every new section one solid retazo fabric, its matching secondary ink and translucent thread, and a dashed seam at its top.",
+      "**Do** draw dividers, outlines and focus as the 1.5px dashed stitch.",
+      "**Do** route every conversion to WhatsApp through the carmín pompón, with carmín hondo on hover.",
+      "**Do** set Bodoni with an explicit optical size per role, and keep tracked caps inside labels, stickers and the cinta.",
+      "**Do** use carmin on light grounds and carmin-luz on dark grounds for script, so script ink stays at 4.5:1 or better.",
+      "**Do** let photographs carry the section, in 4:5 or 3:4 crops with a focal point set per image.",
+      "**Do** offer one pause for all ambient motion, and drop particles, autoplay, bob, marquee and write-in under reduced motion."
+    ],
+    "donts": [
+      "**Don't** round cloth. Sections, patches, tiles, labels and photographs stay square-cut. Pills and ovals are only for the pompón, the round icon buttons and the collage ovals.",
+      "**Don't** use the carmín family for decoration, section grounds or emphasis that isn't Dani's voice or the action of writing to her.",
+      "**Don't** use cobalto or naranja as a section ground.",
+      "**Don't** use Yellowtail for anything other than Dani's own phrases.",
+      "**Don't** use hard-edged shadows anywhere, and don't shadow fabrics or photographs.",
+      "**Don't** let the talco and confeti layer reach full strength over the portrait or the copy.",
+      "**Don't** fall back to a white page with a grey logo row; logos live as stitched tiles on a fabric."
+    ]
+  }
+}
