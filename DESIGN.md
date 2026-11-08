@@ -233,7 +233,7 @@ Two Carnaval grounds and two collage papers, five retazo fabrics, two patch-only
 ### Named Rules
 **The Fabric Variables Rule.** A section declares `--fabric`, `--ink`, `--ink-2`, `--thread` and, on dark grounds, `--script-ink`. Components read those variables and never hard-code text color, so any component can sit on any retazo.
 
-**The Carmín Is Her Voice Rule.** Carmín is reserved for the call to action, Dani's script, her stickers and the cinta. It is never a section fabric and never decoration on its own.
+**The Carmín Means Action Rule.** Carmín is reserved for the call to action, Dani's script, her stickers and the cinta. It is never a section fabric and never decoration on its own.
 
 **The Patch-Only Rule.** Cobalto and naranja appear only at patch scale (bullets, tabs, step numbers, confeti). A whole surface in either breaks the colcha's palette.
 
